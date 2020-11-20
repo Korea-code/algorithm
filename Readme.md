@@ -9,4 +9,4 @@
 3. [x] Longest Substring Without Repeating Characters: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 4. [ ] Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/
 5. [x] Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/
-6. [ ] ZigZag Conversion: https://leetcode.com/problems/zigzag-conversion/
+6. [x] ZigZag Conversion: https://leetcode.com/problems/zigzag-conversion/
