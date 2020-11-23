@@ -11,3 +11,5 @@
 5. [x] Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/
 6. [x] ZigZag Conversion: https://leetcode.com/problems/zigzag-conversion/
 7. [x] Reverse Integer: https://leetcode.com/problems/reverse-integer/
+8. [x] String to Integer (atoi): https://leetcode.com/problems/string-to-integer-atoi/
+9. [x] Palindrome Number https://leetcode.com/problems/palindrome-number/
