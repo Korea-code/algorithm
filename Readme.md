@@ -20,3 +20,7 @@
 14. [x] Longest Common Prefix: https://leetcode.com/problems/longest-common-prefix/
 15. [x] 3 Sum: https://leetcode.com/problems/3sum/
 16. [x] 3 Sum Closest: https://leetcode.com/problems/3sum-closest/
+17.
+18.
+19.
+20. [x] Valid Parentheses: https://leetcode.com/problems/valid-parentheses/
