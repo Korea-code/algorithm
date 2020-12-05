@@ -24,3 +24,4 @@
 18.
 19.
 20. [x] Valid Parentheses: https://leetcode.com/problems/valid-parentheses/
+21. [x] Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/
