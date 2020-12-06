@@ -25,3 +25,8 @@
 19.
 20. [x] Valid Parentheses: https://leetcode.com/problems/valid-parentheses/
 21. [x] Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/
+22.
+23.
+24.
+25.
+26. [x] Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
