@@ -30,3 +30,4 @@
 24.
 25.
 26. [x] Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+27. [x] Remove Element: https://leetcode.com/problems/remove-element/
