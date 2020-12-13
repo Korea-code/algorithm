@@ -27,7 +27,7 @@
 21. [x] Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/
 22.
 23.
-24.
+24. [x] Swap nodes in pairs: https://leetcode.com/problems/swap-nodes-in-pairs/
 25.
 26. [x] Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 27. [x] Remove Element: https://leetcode.com/problems/remove-element/
